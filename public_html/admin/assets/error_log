@@ -1,0 +1,4 @@
+[16-Mar-2014 02:37:37] PHP Warning:  move_uploaded_file(../../sponsors/coca-cola.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/rk/public_html/admin/assets/sponsors.php on line 40
+[16-Mar-2014 02:37:37] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/php90yBYd' to '../../sponsors/coca-cola.jpg' in /home/rk/public_html/admin/assets/sponsors.php on line 40
+[16-Mar-2014 03:02:55] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home/rk/public_html/admin/assets/sponsors.php on line 132
+[16-Mar-2014 03:02:55] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home/rk/public_html/admin/assets/sponsors.php on line 137
